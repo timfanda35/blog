@@ -6,7 +6,7 @@ copyright: "(c) 2019 Bear Su's blog"
 
 theme: hugo-gentoo-theme
 
-google_analytics: UA-5708312-7
+googleAnalytics: UA-5708312-7
 
 paginate: 10
 excerpt_separator: "<!-- more -->"
