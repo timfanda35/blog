@@ -1,5 +1,5 @@
 rebuild:
-	hugo
+	hugo server
 
 deploy:
 	bash deploy.sh

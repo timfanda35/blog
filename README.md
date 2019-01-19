@@ -4,18 +4,18 @@ Render by [Hugo](https://gohugo.io/).
 
 Add Post
 
-```shell
+```bash
 hugo new post/new-post.md
 ```
 
 Local Test
 
-```shell
+```bash
 make
 ```
 
 Publish
 
-```shell
+```bash
 make deploy
 ```
