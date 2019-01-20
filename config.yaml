@@ -1,7 +1,7 @@
 baseURL: https://timfanda35.github.io
 disablePathToLower: true
 languageCode: en-us
-title: Bear Su's blog
+title: Bear Su's Blog
 copyright: "(c) 2019 Bear Su's Blog"
 
 theme: hugo-gentoo-theme-custom
