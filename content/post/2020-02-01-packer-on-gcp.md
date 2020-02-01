@@ -6,7 +6,7 @@ categories:
   - packer
 comments: true
 date: 2020-02-01T12:00:00+08:00
-title: Packe on GCP
+title: Packer on GCP
 url: /2020/02/01/packer-on-gcp/
 ---
 
