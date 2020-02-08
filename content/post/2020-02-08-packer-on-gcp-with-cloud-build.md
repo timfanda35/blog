@@ -117,8 +117,10 @@ url: /2020/02/08/packer-on-gcp-with-cloud-build/
 
 ![](/images/2020-02-08/packer-on-gcp-with-cloud-build/009.png)
 
-參考連結：
 
+
+參考連結：
+- [參考 Repo](https://github.com/timfanda35/packer-on-gcp-cloubuild-demo)
 - [Building VM images using Packer](https://cloud.google.com/cloud-build/docs/building/build-vm-images-with-packer)
 - [Substituting variable values](https://cloud.google.com/cloud-build/docs/configuring-builds/substitute-variable-values)
 - [Running builds on GitHub](https://cloud.google.com/cloud-build/docs/run-builds-on-github)
