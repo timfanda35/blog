@@ -91,7 +91,7 @@ url: /2020/02/08/packer-on-gcp-with-cloud-build/
 
 ![](/images/2020-02-08/packer-on-gcp-with-cloud-build/005.png)
 
-點擊「Install」。
+點擊「Install」。(可以只選擇測試的 repo)
 
 ![](/images/2020-02-08/packer-on-gcp-with-cloud-build/006.png)
 
