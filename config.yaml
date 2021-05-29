@@ -2,9 +2,10 @@ baseURL: https://timfanda35.github.io
 disablePathToLower: true
 languageCode: en-us
 title: Bear Su's Blog
-copyright: "(c) 2020 Bear Su's Blog"
+copyright: "(c) 2021 Bear Su's Blog"
 
 theme: hugo-gentoo-theme-custom
+contentDir: content/posts
 
 googleAnalytics: UA-5708312-7
 
